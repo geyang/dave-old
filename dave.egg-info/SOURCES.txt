@@ -1,0 +1,7 @@
+dave.py
+dave.egg-info/PKG-INFO
+dave.egg-info/SOURCES.txt
+dave.egg-info/dependency_links.txt
+dave.egg-info/entry_points.txt
+dave.egg-info/requires.txt
+dave.egg-info/top_level.txt
